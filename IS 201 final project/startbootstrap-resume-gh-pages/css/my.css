@@ -1,0 +1,24 @@
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+body {
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ 
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+img{
+    display: block;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
